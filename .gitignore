@@ -1,0 +1,6 @@
+.idea
+*.iml
+html-template
+library
+out
+*.swp
